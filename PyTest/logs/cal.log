@@ -1,0 +1,10 @@
+2023-07-12 17:30:30,140 - DEBUG : Results of sum: 12, subtraction: 10, multiplication: 24
+2023-07-12 17:30:30,140 - WARNING : Results of sum: 12, subtraction: 10, multiplication: 24
+2023-07-12 17:30:30,140 - INFO : Results of sum: 12, subtraction: 10, multiplication: 24
+2023-07-12 17:30:30,140 - CRITICAL : Results of sum: 12, subtraction: 10, multiplication: 24
+2023-07-12 17:30:30,140 - ERROR : Results of sum: 12, subtraction: 10, multiplication: 24
+2023-07-12 17:31:14,192 - DEBUG : Results of sum: 15, subtraction: 11, multiplication: 72
+2023-07-12 17:31:14,192 - WARNING : Results of sum: 15, subtraction: 11, multiplication: 72
+2023-07-12 17:31:14,192 - INFO : Results of sum: 15, subtraction: 11, multiplication: 72
+2023-07-12 17:31:14,192 - CRITICAL : Results of sum: 15, subtraction: 11, multiplication: 72
+2023-07-12 17:31:14,193 - ERROR : Results of sum: 15, subtraction: 11, multiplication: 72
