@@ -29,4 +29,4 @@ logging.error("Results of sum: {}, subtraction: {}, multiplication: {}".format(s
 
 #logging.critical("Results of sum: %0.2f, subtraction: %0.2f, multiplication: %0.2f" % (summ, subtract, multiply))
 
-#print("Results are: %0.2f %0.2f %0.2f" % (summ, subtract, multiply))
+##print("Results are: %0.2f %0.2f %0.2f" % (summ, subtract, multiply))
